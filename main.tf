@@ -1,1 +1,5 @@
-#empty
+terraform {
+required_providers {
+aws = {}
+}
+}
