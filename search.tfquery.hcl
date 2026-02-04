@@ -1,3 +1,3 @@
-list "aws_security_group" "example" {
+list "aws_db_instance" "example" {
   provider = aws
 }
